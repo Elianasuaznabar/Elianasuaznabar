@@ -5,6 +5,14 @@
 ✨ *No importa qué tan lento vayas, lo importante es que nunca te detengas.* 🌱
 
 😅 Estudiando ingeniería... y a veces entendiendo.
+
+🛠️ Actualmente aprendiendo:
+- Desarrollo Web (HTML, CSS, JavaScript)
+- Programación con Java y Python
+
+📬 Puedes encontrarme aquí:
+- GitHub: [Elianasuaznabar](https://github.com/Elianasuaznabar)
+
 <!--
 **Elianasuaznabar/Elianasuaznabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
