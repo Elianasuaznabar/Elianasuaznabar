@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Mayor de San Simón (UMSS) 💻
 
-✨ No importa qué tan lento vayas, lo importante es que nunca te detengas. 🌱
+✨ *No importa qué tan lento vayas, lo importante es que nunca te detengas.* 🌱
 
 😅 Estudiando ingeniería... y a veces entendiendo.
 <!--
